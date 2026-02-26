@@ -10,7 +10,6 @@ class TemperatureConversion {
 
         // Converting Celsius to Fahrenheit
         double fahrenheitResult = (celsius * 9/5) + 32;
-
         // Printing result
         System.out.println("The " + celsius + " celsius is " 
                 + fahrenheitResult + " fahrenheit");
