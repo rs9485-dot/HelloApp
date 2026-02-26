@@ -4,7 +4,7 @@ class TriangleArea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Taking user input (in cm)
+        // Taking user input  (in cm)
         System.out.print("Enter base in cm: ");
         double base = sc.nextDouble();
 
